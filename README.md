@@ -1,4 +1,4 @@
-# QR Links Repository
+# # QR SAM Logistics Repository
 
 This repository manages dynamic redirect links for QR codes related to **SAM Logistics** and other projects.
 
